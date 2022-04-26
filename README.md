@@ -1,1 +1,3 @@
 # Githubtraniee
+images 
+type text
